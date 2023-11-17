@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 
-🐍
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+Roboto&weight=1000&size=40&duration=4000&pause=1500&color=01416F&center=true&repeat=false&random=false&width=800&height=65&lines=Adrian+Fagerland)](https://git.io/typing-svg)
 
 <!--
 **adrianfagerland/adrianfagerland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
